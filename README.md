@@ -1,9 +1,11 @@
 # Hackerrank - VanillaJS: Image Carousel 
 
-### Problem
-Goal: <br /> Implement a carousel for a fixed size image collection. <br />
-Technology: <br /> HTML, CSS and JS <br />
-Requirements: <br />
+## Problem
+### Goal:
+Implement a carousel for a fixed size image collection. <br />
+### Technology: 
+HTML, CSS and JS 
+### Requirements:
 • Implement a carousel for a collection of 5 images, img-1.png through img-5.png. <br />
 • The carousel displays the first image initially, img-1.png. <br />
 • Clicking on a prey/ next arrow should show the previous or next image. <br />
@@ -14,7 +16,7 @@ Requirements: <br />
 • Unchecking the checkbox with the label Slide should stop an automatic display of the images. <br />
 
 
-### Screenshot
+## Screenshot
 <div align="center">
   <img width="600" src="/screenshot.png" />
 </div>
