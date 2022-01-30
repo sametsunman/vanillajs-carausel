@@ -1,2 +1,2 @@
-# vanillajs-carausel
-VanillaJS Carausel Problem
+# Hackerrank - VanillaJS Carausel Problem
+
