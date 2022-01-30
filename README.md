@@ -1,8 +1,8 @@
 # Hackerrank - VanillaJS: Image Carousel 
 
 ### Problem
-Goal: Implement a carousel for a fixed size image collection. <br />
-Technology: HTML, CSS and JS <br />
+Goal: <br /> Implement a carousel for a fixed size image collection. <br />
+Technology: <br /> HTML, CSS and JS <br />
 Requirements: <br />
 • Implement a carousel for a collection of 5 images, img-1.png through img-5.png. <br />
 • The carousel displays the first image initially, img-1.png. <br />
